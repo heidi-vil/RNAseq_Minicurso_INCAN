@@ -1,8 +1,9 @@
 # RNAseq_Minicurso_INCAN
 
 ## Descripción
+:shipit:
 Repositorio del minicurso para análisis de datos de RNA-seq. 
-Creado por Erick Navarro :shipit:.
+Creado por Erick Navarro.
 
 ## Requisitos
 - Instalar [R](https://cran.itam.mx)
