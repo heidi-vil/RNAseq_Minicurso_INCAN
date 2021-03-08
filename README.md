@@ -2,7 +2,7 @@
 
 ## Descripción
 Repositorio del minicurso para análisis de datos de RNA-seq. 
-Creado por @ErickNavarroD .
+Creado por Erick Navarro :shipit:.
 
 ## Requisitos
 - Instalar [R](https://cran.itam.mx)
