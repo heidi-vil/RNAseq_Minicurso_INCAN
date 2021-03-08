@@ -1,10 +1,7 @@
 # RNAseq_Minicurso_INCAN
 
 ## Descripción
-:shipit:
-
-Repositorio del minicurso para análisis de datos de RNA-seq. 
-
+Repositorio del minicurso para análisis de datos de RNA-seq.  
 Creado por Erick Navarro
 
 ## Requisitos
