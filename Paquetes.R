@@ -1,6 +1,8 @@
 #Instalacion de paquetes
 install.packages("tidyverse")
-install.packages("BiocManager") #Paquete que te permite descargar los de bioconductor
+if (!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+BiocManager::install(version = "3.12") #Paquete que te permite descargar los de bioconductor
 BiocManager::install("DESeq2") #Para el analisis de expresion diferencial
 BiocManager::install("biomaRt") #Anotacion de genes
 install.packages("ggplot2") #Graficos
