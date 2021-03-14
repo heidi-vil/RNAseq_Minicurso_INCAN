@@ -1,5 +1,5 @@
 #Instalacion de paquetes
-install.packages("tidyr")
+install.packages("tidyverse")
 install.packages("BiocManager") #Paquete que te permite descargar los de bioconductor
 BiocManager::install("DESeq2") #Para el analisis de expresion diferencial
 BiocManager::install("biomaRt") #Anotacion de genes
